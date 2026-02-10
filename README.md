@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @josephazar
-- 👀 I’m interested in Data Science, Time Series, Machine and Deep learning, NodeJS, IoT, and Android Dev.
-- 🌱 I’m currently learning Pytorch, TypeScript, and MongoDB.
+- 👀 I’m interested in Data Science, Time Series, Machine and Deep learning, NodeJS, IoT, and GenAI.
 - 📫 How to reach me: joseph.azar@univ-fcomte.fr
 
 <!---
